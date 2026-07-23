@@ -212,6 +212,4 @@ Projeto desenvolvido colaborativamente pelos integrantes da equipe.
 
 Cada membro contribuiu para diferentes etapas do projeto, incluindo planejamento, design, programação, testes e documentação.
 
----
 
-⭐ Se este projeto foi interessante para você, deixe uma estrela no repositório!
