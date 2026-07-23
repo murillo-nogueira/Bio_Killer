@@ -229,8 +229,5 @@ Desenvolvedor Web
 - 💼 PHP
 - 🌐 HTML • CSS • JavaScript
 - 🗄️ Banco de Dados
-- 🚀 Sempre em busca de novos desafios.
 
 ---
-
-⭐ Caso tenha gostado do projeto, deixe uma estrela no repositório!
